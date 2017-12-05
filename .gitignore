@@ -1,0 +1,10 @@
+.idea
+out
+target
+*.iml
+log
+OnlineInternship
+5.OnlineInternship
+JavaRush_Internship
+*.patch
+*.class
